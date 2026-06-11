@@ -1,0 +1,75 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1500" height="760" viewBox="0 0 1500 760">
+<rect x="0" y="0" width="1500" height="760" rx="0" fill="#FFFFFF" stroke="none" />
+<text x="36" y="42" font-family="Arial, Helvetica, sans-serif" font-size="26" font-weight="700" text-anchor="start" fill="#1F2933">Requested Data Type Status</text>
+<text x="36" y="70" font-family="Arial, Helvetica, sans-serif" font-size="14" font-weight="400" text-anchor="start" fill="#637381">Compared with the UKB proposal. Status terms are Available, Partial, or Missing.</text>
+<text x="40" y="108" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="700" text-anchor="start" fill="#1F2933">Requested area</text>
+<text x="260" y="108" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="700" text-anchor="start" fill="#1F2933">Requested type</text>
+<text x="880" y="108" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="700" text-anchor="start" fill="#1F2933">Availability</text>
+<rect x="32" y="110" width="1430" height="36" rx="0" fill="#F6F8FA" stroke="none" />
+<text x="40" y="130" font-family="Arial, Helvetica, sans-serif" font-size="12" font-weight="400" text-anchor="start" fill="#1F2933">Biomarker data</text>
+<text x="260" y="130" font-family="Arial, Helvetica, sans-serif" font-size="12" font-weight="400" text-anchor="start" fill="#1F2933">Biochemistry biomarkers</text>
+<text x="880" y="130" font-family="Arial, Helvetica, sans-serif" font-size="12" font-weight="700" text-anchor="start" fill="#2F855A">Available</text>
+<text x="40" y="168" font-family="Arial, Helvetica, sans-serif" font-size="12" font-weight="400" text-anchor="start" fill="#1F2933">Biomarker data</text>
+<text x="260" y="168" font-family="Arial, Helvetica, sans-serif" font-size="12" font-weight="400" text-anchor="start" fill="#1F2933">Metabolomic biomarkers</text>
+<text x="880" y="168" font-family="Arial, Helvetica, sans-serif" font-size="12" font-weight="700" text-anchor="start" fill="#2F855A">Available</text>
+<rect x="32" y="186" width="1430" height="36" rx="0" fill="#F6F8FA" stroke="none" />
+<text x="40" y="206" font-family="Arial, Helvetica, sans-serif" font-size="12" font-weight="400" text-anchor="start" fill="#1F2933">Imaging data</text>
+<text x="260" y="206" font-family="Arial, Helvetica, sans-serif" font-size="12" font-weight="400" text-anchor="start" fill="#1F2933">DXA/DEXA</text>
+<text x="880" y="206" font-family="Arial, Helvetica, sans-serif" font-size="12" font-weight="700" text-anchor="start" fill="#2F855A">Available</text>
+<text x="40" y="244" font-family="Arial, Helvetica, sans-serif" font-size="12" font-weight="400" text-anchor="start" fill="#1F2933">Physical measurements data</text>
+<text x="260" y="244" font-family="Arial, Helvetica, sans-serif" font-size="12" font-weight="400" text-anchor="start" fill="#1F2933">General physical / vision / memory</text>
+<text x="880" y="244" font-family="Arial, Helvetica, sans-serif" font-size="12" font-weight="700" text-anchor="start" fill="#2F855A">Available</text>
+<rect x="32" y="262" width="1430" height="36" rx="0" fill="#F6F8FA" stroke="none" />
+<text x="40" y="282" font-family="Arial, Helvetica, sans-serif" font-size="12" font-weight="400" text-anchor="start" fill="#1F2933">Biomarker data</text>
+<text x="260" y="282" font-family="Arial, Helvetica, sans-serif" font-size="12" font-weight="400" text-anchor="start" fill="#1F2933">Blood count</text>
+<text x="880" y="282" font-family="Arial, Helvetica, sans-serif" font-size="12" font-weight="700" text-anchor="start" fill="#B7791F">Partial</text>
+<text x="40" y="320" font-family="Arial, Helvetica, sans-serif" font-size="12" font-weight="400" text-anchor="start" fill="#1F2933">Demographic and lifestyle data</text>
+<text x="260" y="320" font-family="Arial, Helvetica, sans-serif" font-size="12" font-weight="400" text-anchor="start" fill="#1F2933">Sociodemographics / medical history / lifestyle / family / psychosocial</text>
+<text x="880" y="320" font-family="Arial, Helvetica, sans-serif" font-size="12" font-weight="700" text-anchor="start" fill="#B7791F">Partial</text>
+<rect x="32" y="338" width="1430" height="36" rx="0" fill="#F6F8FA" stroke="none" />
+<text x="40" y="358" font-family="Arial, Helvetica, sans-serif" font-size="12" font-weight="400" text-anchor="start" fill="#1F2933">Environmental data</text>
+<text x="260" y="358" font-family="Arial, Helvetica, sans-serif" font-size="12" font-weight="400" text-anchor="start" fill="#1F2933">Air / noise / greenspace / built environment / water mineral</text>
+<text x="880" y="358" font-family="Arial, Helvetica, sans-serif" font-size="12" font-weight="700" text-anchor="start" fill="#B7791F">Partial</text>
+<text x="40" y="396" font-family="Arial, Helvetica, sans-serif" font-size="12" font-weight="400" text-anchor="start" fill="#1F2933">Health records data</text>
+<text x="260" y="396" font-family="Arial, Helvetica, sans-serif" font-size="12" font-weight="400" text-anchor="start" fill="#1F2933">Hospital inpatient / cancer / death / first occurrences</text>
+<text x="880" y="396" font-family="Arial, Helvetica, sans-serif" font-size="12" font-weight="700" text-anchor="start" fill="#B7791F">Partial</text>
+<rect x="32" y="414" width="1430" height="36" rx="0" fill="#F6F8FA" stroke="none" />
+<text x="40" y="434" font-family="Arial, Helvetica, sans-serif" font-size="12" font-weight="400" text-anchor="start" fill="#1F2933">Imaging data</text>
+<text x="260" y="434" font-family="Arial, Helvetica, sans-serif" font-size="12" font-weight="400" text-anchor="start" fill="#1F2933">Brain MRI</text>
+<text x="880" y="434" font-family="Arial, Helvetica, sans-serif" font-size="12" font-weight="700" text-anchor="start" fill="#B7791F">Partial</text>
+<text x="40" y="472" font-family="Arial, Helvetica, sans-serif" font-size="12" font-weight="400" text-anchor="start" fill="#1F2933">Imaging data</text>
+<text x="260" y="472" font-family="Arial, Helvetica, sans-serif" font-size="12" font-weight="400" text-anchor="start" fill="#1F2933">Retina/OCT</text>
+<text x="880" y="472" font-family="Arial, Helvetica, sans-serif" font-size="12" font-weight="700" text-anchor="start" fill="#B7791F">Partial</text>
+<rect x="32" y="490" width="1430" height="36" rx="0" fill="#F6F8FA" stroke="none" />
+<text x="40" y="510" font-family="Arial, Helvetica, sans-serif" font-size="12" font-weight="400" text-anchor="start" fill="#1F2933">Physical measurements data</text>
+<text x="260" y="510" font-family="Arial, Helvetica, sans-serif" font-size="12" font-weight="400" text-anchor="start" fill="#1F2933">Arterial stiffness / hearing / fitness / activity monitor / ECG</text>
+<text x="880" y="510" font-family="Arial, Helvetica, sans-serif" font-size="12" font-weight="700" text-anchor="start" fill="#B7791F">Partial</text>
+<text x="40" y="548" font-family="Arial, Helvetica, sans-serif" font-size="12" font-weight="400" text-anchor="start" fill="#1F2933">Questionnaire data</text>
+<text x="260" y="548" font-family="Arial, Helvetica, sans-serif" font-size="12" font-weight="400" text-anchor="start" fill="#1F2933">Diet / cognitive / mental health / health wellbeing</text>
+<text x="880" y="548" font-family="Arial, Helvetica, sans-serif" font-size="12" font-weight="700" text-anchor="start" fill="#B7791F">Partial</text>
+<rect x="32" y="566" width="1430" height="36" rx="0" fill="#F6F8FA" stroke="none" />
+<text x="40" y="586" font-family="Arial, Helvetica, sans-serif" font-size="12" font-weight="400" text-anchor="start" fill="#1F2933">Biomarker data</text>
+<text x="260" y="586" font-family="Arial, Helvetica, sans-serif" font-size="12" font-weight="400" text-anchor="start" fill="#1F2933">Infectious disease markers</text>
+<text x="880" y="586" font-family="Arial, Helvetica, sans-serif" font-size="12" font-weight="700" text-anchor="start" fill="#C53030">Missing</text>
+<text x="40" y="624" font-family="Arial, Helvetica, sans-serif" font-size="12" font-weight="400" text-anchor="start" fill="#1F2933">Biomarker data</text>
+<text x="260" y="624" font-family="Arial, Helvetica, sans-serif" font-size="12" font-weight="400" text-anchor="start" fill="#1F2933">Proteomics</text>
+<text x="880" y="624" font-family="Arial, Helvetica, sans-serif" font-size="12" font-weight="700" text-anchor="start" fill="#C53030">Missing</text>
+<rect x="32" y="642" width="1430" height="36" rx="0" fill="#F6F8FA" stroke="none" />
+<text x="40" y="662" font-family="Arial, Helvetica, sans-serif" font-size="12" font-weight="400" text-anchor="start" fill="#1F2933">Genetic data</text>
+<text x="260" y="662" font-family="Arial, Helvetica, sans-serif" font-size="12" font-weight="400" text-anchor="start" fill="#1F2933">Genotyping / imputation / WES / WGS / telomere</text>
+<text x="880" y="662" font-family="Arial, Helvetica, sans-serif" font-size="12" font-weight="700" text-anchor="start" fill="#C53030">Missing</text>
+<text x="40" y="700" font-family="Arial, Helvetica, sans-serif" font-size="12" font-weight="400" text-anchor="start" fill="#1F2933">Health records data</text>
+<text x="260" y="700" font-family="Arial, Helvetica, sans-serif" font-size="12" font-weight="400" text-anchor="start" fill="#1F2933">Primary care</text>
+<text x="880" y="700" font-family="Arial, Helvetica, sans-serif" font-size="12" font-weight="700" text-anchor="start" fill="#C53030">Missing</text>
+<rect x="32" y="718" width="1430" height="36" rx="0" fill="#F6F8FA" stroke="none" />
+<text x="40" y="738" font-family="Arial, Helvetica, sans-serif" font-size="12" font-weight="400" text-anchor="start" fill="#1F2933">Imaging data</text>
+<text x="260" y="738" font-family="Arial, Helvetica, sans-serif" font-size="12" font-weight="400" text-anchor="start" fill="#1F2933">Abdomen MRI</text>
+<text x="880" y="738" font-family="Arial, Helvetica, sans-serif" font-size="12" font-weight="700" text-anchor="start" fill="#C53030">Missing</text>
+<text x="40" y="776" font-family="Arial, Helvetica, sans-serif" font-size="12" font-weight="400" text-anchor="start" fill="#1F2933">Imaging data</text>
+<text x="260" y="776" font-family="Arial, Helvetica, sans-serif" font-size="12" font-weight="400" text-anchor="start" fill="#1F2933">Carotid ultrasound</text>
+<text x="880" y="776" font-family="Arial, Helvetica, sans-serif" font-size="12" font-weight="700" text-anchor="start" fill="#C53030">Missing</text>
+<rect x="32" y="794" width="1430" height="36" rx="0" fill="#F6F8FA" stroke="none" />
+<text x="40" y="814" font-family="Arial, Helvetica, sans-serif" font-size="12" font-weight="400" text-anchor="start" fill="#1F2933">Imaging data</text>
+<text x="260" y="814" font-family="Arial, Helvetica, sans-serif" font-size="12" font-weight="400" text-anchor="start" fill="#1F2933">Heart MRI</text>
+<text x="880" y="814" font-family="Arial, Helvetica, sans-serif" font-size="12" font-weight="700" text-anchor="start" fill="#C53030">Missing</text>
+</svg>

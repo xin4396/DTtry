@@ -1,0 +1,241 @@
+{
+  "raw_columns": 22530,
+  "unique_raw_columns": 22530,
+  "semantic_groups": 3126,
+  "raw_columns_mapped": 22530,
+  "missing_raw_columns": 0,
+  "extra_mapped_columns": 0,
+  "pair_checks": [
+    {
+      "source_id": "eye_kidney_ukb42408",
+      "field_a": "41270",
+      "field_b": "41280",
+      "field_a_slots": 213,
+      "field_b_slots": 213,
+      "matched_slots": 213,
+      "a_without_b": 0,
+      "b_without_a": 0
+    },
+    {
+      "source_id": "eye_kidney_ukb42408",
+      "field_a": "41271",
+      "field_b": "41281",
+      "field_a_slots": 47,
+      "field_b_slots": 47,
+      "matched_slots": 47,
+      "a_without_b": 0,
+      "b_without_a": 0
+    },
+    {
+      "source_id": "eye_kidney_ukb42408",
+      "field_a": "41202",
+      "field_b": "41262",
+      "field_a_slots": 66,
+      "field_b_slots": 66,
+      "matched_slots": 66,
+      "a_without_b": 0,
+      "b_without_a": 0
+    },
+    {
+      "source_id": "eye_kidney_ukb42408",
+      "field_a": "41203",
+      "field_b": "41263",
+      "field_a_slots": 28,
+      "field_b_slots": 28,
+      "matched_slots": 28,
+      "a_without_b": 0,
+      "b_without_a": 0
+    },
+    {
+      "source_id": "eye_kidney_ukb42408",
+      "field_a": "41272",
+      "field_b": "41282",
+      "field_a_slots": 117,
+      "field_b_slots": 117,
+      "matched_slots": 117,
+      "a_without_b": 0,
+      "b_without_a": 0
+    },
+    {
+      "source_id": "eye_kidney_ukb42408",
+      "field_a": "41273",
+      "field_b": "41283",
+      "field_a_slots": 16,
+      "field_b_slots": 16,
+      "matched_slots": 16,
+      "a_without_b": 0,
+      "b_without_a": 0
+    },
+    {
+      "source_id": "eye_kidney_ukb42408",
+      "field_a": "41200",
+      "field_b": "41260",
+      "field_a_slots": 49,
+      "field_b_slots": 49,
+      "matched_slots": 49,
+      "a_without_b": 0,
+      "b_without_a": 0
+    },
+    {
+      "source_id": "eye_kidney_ukb42408",
+      "field_a": "41201",
+      "field_b": "41257",
+      "field_a_slots": 22,
+      "field_b_slots": 13,
+      "matched_slots": 13,
+      "a_without_b": 9,
+      "b_without_a": 0
+    },
+    {
+      "source_id": "eye_brain_ukb42577",
+      "field_a": "41270",
+      "field_b": "41280",
+      "field_a_slots": 213,
+      "field_b_slots": 213,
+      "matched_slots": 213,
+      "a_without_b": 0,
+      "b_without_a": 0
+    },
+    {
+      "source_id": "eye_brain_ukb42577",
+      "field_a": "41271",
+      "field_b": "41281",
+      "field_a_slots": 47,
+      "field_b_slots": 47,
+      "matched_slots": 47,
+      "a_without_b": 0,
+      "b_without_a": 0
+    },
+    {
+      "source_id": "eye_brain_ukb42577",
+      "field_a": "41202",
+      "field_b": "41262",
+      "field_a_slots": 66,
+      "field_b_slots": 66,
+      "matched_slots": 66,
+      "a_without_b": 0,
+      "b_without_a": 0
+    },
+    {
+      "source_id": "eye_brain_ukb42577",
+      "field_a": "41203",
+      "field_b": "41263",
+      "field_a_slots": 28,
+      "field_b_slots": 28,
+      "matched_slots": 28,
+      "a_without_b": 0,
+      "b_without_a": 0
+    },
+    {
+      "source_id": "eye_brain_ukb42577",
+      "field_a": "41272",
+      "field_b": "41282",
+      "field_a_slots": 117,
+      "field_b_slots": 117,
+      "matched_slots": 117,
+      "a_without_b": 0,
+      "b_without_a": 0
+    },
+    {
+      "source_id": "eye_brain_ukb42577",
+      "field_a": "41273",
+      "field_b": "41283",
+      "field_a_slots": 16,
+      "field_b_slots": 16,
+      "matched_slots": 16,
+      "a_without_b": 0,
+      "b_without_a": 0
+    },
+    {
+      "source_id": "eye_brain_ukb42577",
+      "field_a": "41200",
+      "field_b": "41260",
+      "field_a_slots": 49,
+      "field_b_slots": 49,
+      "matched_slots": 49,
+      "a_without_b": 0,
+      "b_without_a": 0
+    },
+    {
+      "source_id": "eye_brain_ukb42577",
+      "field_a": "41201",
+      "field_b": "41257",
+      "field_a_slots": 22,
+      "field_b_slots": 13,
+      "matched_slots": 13,
+      "a_without_b": 9,
+      "b_without_a": 0
+    },
+    {
+      "source_id": "metabolite_csv",
+      "field_a": "41270",
+      "field_b": "41280",
+      "field_a_slots": 213,
+      "field_b_slots": 0,
+      "matched_slots": 0,
+      "a_without_b": 213,
+      "b_without_a": 0
+    },
+    {
+      "source_id": "metabolite_csv",
+      "field_a": "41271",
+      "field_b": "41281",
+      "field_a_slots": 47,
+      "field_b_slots": 0,
+      "matched_slots": 0,
+      "a_without_b": 47,
+      "b_without_a": 0
+    },
+    {
+      "source_id": "metabolite_csv",
+      "field_a": "41202",
+      "field_b": "41262",
+      "field_a_slots": 66,
+      "field_b_slots": 0,
+      "matched_slots": 0,
+      "a_without_b": 66,
+      "b_without_a": 0
+    },
+    {
+      "source_id": "metabolite_csv",
+      "field_a": "41203",
+      "field_b": "41263",
+      "field_a_slots": 28,
+      "field_b_slots": 0,
+      "matched_slots": 0,
+      "a_without_b": 28,
+      "b_without_a": 0
+    },
+    {
+      "source_id": "metabolite_csv",
+      "field_a": "41272",
+      "field_b": "41282",
+      "field_a_slots": 117,
+      "field_b_slots": 0,
+      "matched_slots": 0,
+      "a_without_b": 117,
+      "b_without_a": 0
+    },
+    {
+      "source_id": "metabolite_csv",
+      "field_a": "41273",
+      "field_b": "41283",
+      "field_a_slots": 16,
+      "field_b_slots": 0,
+      "matched_slots": 0,
+      "a_without_b": 16,
+      "b_without_a": 0
+    },
+    {
+      "source_id": "metabolite_csv",
+      "field_a": "41200",
+      "field_b": "41260",
+      "field_a_slots": 49,
+      "field_b_slots": 0,
+      "matched_slots": 0,
+      "a_without_b": 49,
+      "b_without_a": 0
+    }
+  ],
+  "status": "PASS"
+}

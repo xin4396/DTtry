@@ -1,0 +1,8 @@
+id_namespace,role,notes
+Eye-kidney ukb42408:eid,CKD/eid_ckd namespace,Direct key for eye-kidney fields; matches METABOLITE.csv:eid_ckd and bridge_brain.dta:eid_ckd.
+METABOLITE.csv:eid_ckd,Metabolite CKD key,Use this ID column for kidney/metabolite/brain fusion; it maps to eye-brain through bridge_brain.dta.
+Eye-brain ukb42577/ukb43216:eid,Eye-brain namespace,Same eye-brain namespace across ukb42577 and ukb43216; bridge_brain.dta maps it to eid_ckd.
+bridge_brain.dta:eid_brain -> eid_ckd,Kidney-brain crosswalk,One-to-one bridge with 502493 rows; this resolves local kidney-brain ID alignment.
+METABOLITE.csv:eid_ageing,Alternative metabolite namespace,"Same METABOLITE.csv rows, different encoded ID values; bridge_ageing.dta maps it to eid_ckd."
+bridge_ageing.dta:eid_ageing -> eid_ckd,Ageing-to-CKD crosswalk,One-to-one bridge with 502493 rows; useful for interpreting METABOLITE.csv:eid_ageing.
+bridge_heart.dta:eid_heart -> eid_ckd,Future heart-data crosswalk,One-to-one bridge with 502493 rows; no local heart feature table is currently profiled.

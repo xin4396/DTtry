@@ -1,0 +1,47 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1500" height="700" viewBox="0 0 1500 700">
+<rect x="0" y="0" width="1500" height="700" rx="0" fill="#FFFFFF" stroke="none" />
+<text x="36" y="42" font-family="Arial, Helvetica, sans-serif" font-size="26" font-weight="700" text-anchor="start" fill="#1F2933">Raw UKB Column Decoder</text>
+<text x="36" y="70" font-family="Arial, Helvetica, sans-serif" font-size="14" font-weight="400" text-anchor="start" fill="#637381">UKB column names use field-instance.array. The array part is shown as repeated entries in the report view.</text>
+<rect x="44" y="106" width="1412" height="148" rx="8" fill="#F6F8FA" stroke="#D9E2EC" />
+<text x="68" y="138" font-family="Arial, Helvetica, sans-serif" font-size="18" font-weight="700" text-anchor="start" fill="#1F2933">Example: 50-1.0</text>
+<text x="68" y="164" font-family="Arial, Helvetica, sans-serif" font-size="14" font-weight="400" text-anchor="start" fill="#637381">Standing height measured at visit/instance 1; repeated-entry position 0.</text>
+<rect x="82" y="178" width="238" height="54" rx="6" fill="#FFFFFF" stroke="#D9E2EC" />
+<text x="96" y="201" font-family="Arial, Helvetica, sans-serif" font-size="17" font-weight="700" text-anchor="start" fill="#2F6F9F">50</text>
+<text x="96" y="222" font-family="Arial, Helvetica, sans-serif" font-size="11" font-weight="400" text-anchor="start" fill="#637381">Field ID: official UKB field</text>
+<rect x="362" y="178" width="238" height="54" rx="6" fill="#FFFFFF" stroke="#D9E2EC" />
+<text x="376" y="201" font-family="Arial, Helvetica, sans-serif" font-size="17" font-weight="700" text-anchor="start" fill="#2F6F9F">1</text>
+<text x="376" y="222" font-family="Arial, Helvetica, sans-serif" font-size="11" font-weight="400" text-anchor="start" fill="#637381">Instance: assessment visit/timepoint</text>
+<rect x="642" y="178" width="238" height="54" rx="6" fill="#FFFFFF" stroke="#D9E2EC" />
+<text x="656" y="201" font-family="Arial, Helvetica, sans-serif" font-size="17" font-weight="700" text-anchor="start" fill="#2F6F9F">0</text>
+<text x="656" y="222" font-family="Arial, Helvetica, sans-serif" font-size="11" font-weight="400" text-anchor="start" fill="#637381">Repeated entry: item within field</text>
+<rect x="922" y="178" width="238" height="54" rx="6" fill="#FFFFFF" stroke="#D9E2EC" />
+<text x="936" y="201" font-family="Arial, Helvetica, sans-serif" font-size="17" font-weight="700" text-anchor="start" fill="#2F6F9F">cell value</text>
+<text x="936" y="222" font-family="Arial, Helvetica, sans-serif" font-size="11" font-weight="400" text-anchor="start" fill="#637381">Participant value: one value per record</text>
+<line x1="320" y1="205" x2="358" y2="205" stroke="#2F6F9F" stroke-width="2" />
+<text x="336" y="210" font-family="Arial, Helvetica, sans-serif" font-size="18" font-weight="700" text-anchor="start" fill="#2F6F9F">&gt;</text>
+<line x1="600" y1="205" x2="638" y2="205" stroke="#2F6F9F" stroke-width="2" />
+<text x="616" y="210" font-family="Arial, Helvetica, sans-serif" font-size="18" font-weight="700" text-anchor="start" fill="#2F6F9F">&gt;</text>
+<line x1="880" y1="205" x2="918" y2="205" stroke="#2F6F9F" stroke-width="2" />
+<text x="896" y="210" font-family="Arial, Helvetica, sans-serif" font-size="18" font-weight="700" text-anchor="start" fill="#2F6F9F">&gt;</text>
+<rect x="1192" y="178" width="222" height="54" rx="6" fill="#FFFFFF" stroke="#D9E2EC" />
+<text x="1206" y="201" font-family="Arial, Helvetica, sans-serif" font-size="17" font-weight="700" text-anchor="start" fill="#2F855A">semantic feature</text>
+<text x="1206" y="222" font-family="Arial, Helvetica, sans-serif" font-size="11" font-weight="400" text-anchor="start" fill="#637381">Standing height</text>
+<rect x="44" y="294" width="1412" height="72" rx="8" fill="#FFFFFF" stroke="#D9E2EC" />
+<text x="68" y="322" font-family="Arial, Helvetica, sans-serif" font-size="17" font-weight="700" text-anchor="start" fill="#1F2933">Repeated visits</text>
+<text x="360" y="322" font-family="Arial, Helvetica, sans-serif" font-size="14" font-weight="700" text-anchor="start" fill="#2F6F9F">50-0.0, 50-1.0</text>
+<text x="760" y="322" font-family="Arial, Helvetica, sans-serif" font-size="14" font-weight="700" text-anchor="start" fill="#2F855A">same measurement concept, different visits</text>
+<rect x="44" y="382" width="1412" height="72" rx="8" fill="#FFFFFF" stroke="#D9E2EC" />
+<text x="68" y="410" font-family="Arial, Helvetica, sans-serif" font-size="17" font-weight="700" text-anchor="start" fill="#1F2933">Paired repeated entries</text>
+<text x="360" y="410" font-family="Arial, Helvetica, sans-serif" font-size="14" font-weight="700" text-anchor="start" fill="#2F6F9F">41270-0.189 + 41280-0.189</text>
+<text x="760" y="410" font-family="Arial, Helvetica, sans-serif" font-size="14" font-weight="700" text-anchor="start" fill="#2F855A">one diagnosis event: code + first date</text>
+<rect x="44" y="470" width="1412" height="72" rx="8" fill="#FFFFFF" stroke="#D9E2EC" />
+<text x="68" y="498" font-family="Arial, Helvetica, sans-serif" font-size="17" font-weight="700" text-anchor="start" fill="#1F2933">Missing/failure notes</text>
+<text x="360" y="498" font-family="Arial, Helvetica, sans-serif" font-size="14" font-weight="700" text-anchor="start" fill="#2F6F9F">30515-0.0</text>
+<text x="760" y="498" font-family="Arial, Helvetica, sans-serif" font-size="14" font-weight="700" text-anchor="start" fill="#2F855A">result flag, not the numeric creatinine measurement</text>
+<rect x="44" y="558" width="1412" height="72" rx="8" fill="#FFFFFF" stroke="#D9E2EC" />
+<text x="68" y="586" font-family="Arial, Helvetica, sans-serif" font-size="17" font-weight="700" text-anchor="start" fill="#1F2933">File handles vs traits</text>
+<text x="360" y="586" font-family="Arial, Helvetica, sans-serif" font-size="14" font-weight="700" text-anchor="start" fill="#2F6F9F">21015-0.0 vs MRI volume columns</text>
+<text x="760" y="586" font-family="Arial, Helvetica, sans-serif" font-size="14" font-weight="700" text-anchor="start" fill="#2F855A">image asset reference vs tabular derived feature</text>
+<rect x="44" y="650" width="1412" height="1" rx="0" fill="#D9E2EC" stroke="none" />
+<text x="68" y="676" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="400" text-anchor="start" fill="#637381">Exhaustive mapping: Dataset Structure Tree and semantic_feature_groups.csv.</text>
+</svg>

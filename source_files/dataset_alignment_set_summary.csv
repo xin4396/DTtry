@@ -1,0 +1,5 @@
+dataset,aligned_participant_count,alignment_basis
+Eye-kidney ukb42408,502505,CKD namespace directly
+Eye-brain ukb42577,502505,bridge_brain.dta maps eye-brain eid to CKD namespace
+Eye-brain ukb43216,502507,bridge_brain.dta maps eye-brain eid to CKD namespace
+METABOLITE.csv,502476,CKD namespace directly

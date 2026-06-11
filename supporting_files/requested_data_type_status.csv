@@ -1,0 +1,20 @@
+availability_status,requested_area,requested_type,notes
+Available,Biomarker data,Biochemistry biomarkers,Routine blood/urine clinical biomarker fields are present.
+Available,Biomarker data,Metabolomic biomarkers,NMR metabolomics fields and z-scored metabolite columns are present in METABOLITE.csv.
+Available,Imaging data,DXA/DEXA,DXA/body-composition derived traits are present in ukb43216.
+Available,Physical measurements data,General physical / vision / memory,"Physical measures, eye/vision, and cognitive/memory fields are present."
+Partial,Biomarker data,Blood count,"Some haematology-style fields exist, but this is not a dedicated complete blood-count panel in the current layer."
+Partial,Demographic and lifestyle data,Sociodemographics / medical history / lifestyle / family / psychosocial,"Demographic, lifestyle, medication, and self-reported history fields are present, but not necessarily every requested submodule."
+Partial,Environmental data,Air / noise / greenspace / built environment / water mineral,Some location/deprivation-style metadata exists; the full environmental exposure suite is not detected.
+Partial,Health records data,Hospital inpatient / cancer / death / first occurrences,Hospital ICD/OPCS repeated-entry summaries and selected linked endpoints are present; full linked-record tables are not all present.
+Partial,Imaging data,Brain MRI,Derived scalar MRI traits and image file identifiers are present; actual image assets are not retrieved.
+Partial,Imaging data,Retina/OCT,Fundus/OCT file IDs and acquisition metadata are present; actual image assets are not retrieved.
+Partial,Physical measurements data,Arterial stiffness / hearing / fitness / activity monitor / ECG,Some activity/location metadata exists; the complete dedicated modalities are not clearly present.
+Partial,Questionnaire data,Diet / cognitive / mental health / health wellbeing,"Diet, cognitive, lifestyle, and mental-health-related fields are present, but not as every requested questionnaire module."
+Missing,Biomarker data,Infectious disease markers,No infectious disease marker panel detected locally.
+Missing,Biomarker data,Proteomics,No Olink/SomaScan or equivalent whole proteomics panel detected locally.
+Missing,Genetic data,Genotyping / imputation / WES / WGS / telomere,"No genome-wide genotype, imputation, exome, genome, or telomere files detected locally."
+Missing,Health records data,Primary care,No primary-care table detected locally.
+Missing,Imaging data,Abdomen MRI,No abdominal MRI fields or assets detected locally.
+Missing,Imaging data,Carotid ultrasound,No carotid ultrasound fields detected locally.
+Missing,Imaging data,Heart MRI,No cardiac MRI fields or assets detected locally.

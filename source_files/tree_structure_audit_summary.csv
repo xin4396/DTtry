@@ -1,0 +1,24 @@
+metric,value,notes
+semantic_groups,3126,Total generated semantic feature groups.
+review_candidate_groups,1275,Groups with deterministic review flags.
+remaining_unclassified_groups,0,Groups still using generic report concepts.
+top_level_questionnaire_data_nodes,0,Must be zero in biological-domain tree.
+top_level_data_management_nodes,0,Must be zero in biological-domain tree.
+top_level_other_retrieved_data_nodes,0,Must be zero in biological-domain tree.
+search_genetic_hits,94,Default app search over visible semantics.
+search_genetic_non_genetics_domain_hits,0,Must be zero.
+search_metadata_hits,259,Hits contain metadata in visible report text or UKB description.
+search_questionnaire_hits,979,Hits contain questionnaire in visible report text or UKB description.
+search_questionnaire_non_self_report_hits,0,Should only occur when UKB visible descriptions contain questionnaire.
+report_domain:Brain and neuroimaging,928,Semantic group count by biological domain.
+report_domain:Lifestyle and environmental exposures,555,Semantic group count by biological domain.
+report_domain:Eye and vision,378,Semantic group count by biological domain.
+report_domain:Clinical outcomes and disease history,365,Semantic group count by biological domain.
+report_domain:Cognition and mental health,287,Semantic group count by biological domain.
+report_domain:Body composition and bone,207,Semantic group count by biological domain.
+report_domain:Clinical laboratory biomarkers,162,Semantic group count by biological domain.
+report_domain:Genetics and genomics,94,Semantic group count by biological domain.
+report_domain:Cardiometabolic physical measures,69,Semantic group count by biological domain.
+report_domain:Demographics and assessment context,60,Semantic group count by biological domain.
+report_domain:Data linkage and source administration,19,Semantic group count by biological domain.
+report_domain:Metabolomics and molecular biomarkers,2,Semantic group count by biological domain.

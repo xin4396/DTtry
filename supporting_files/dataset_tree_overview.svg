@@ -1,0 +1,137 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1500" height="760" viewBox="0 0 1500 760">
+<rect x="0" y="0" width="1500" height="760" rx="0" fill="#FFFFFF" stroke="none" />
+<text x="36" y="42" font-family="Arial, Helvetica, sans-serif" font-size="26" font-weight="700" text-anchor="start" fill="#1F2933">Retrieved UKB Dataset Structure</text>
+<text x="36" y="70" font-family="Arial, Helvetica, sans-serif" font-size="14" font-weight="400" text-anchor="start" fill="#637381">Dataset-first view using biological domains and acquisition types for report navigation.</text>
+<rect x="44" y="112" width="308" height="46" rx="6" fill="#2F6F9F" stroke="none" />
+<text x="58" y="140" font-family="Arial, Helvetica, sans-serif" font-size="16" font-weight="700" text-anchor="start" fill="#FFFFFF">Eye-kidney ukb42408</text>
+<text x="58" y="182" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="400" text-anchor="start" fill="#637381">Participant records: 502,505</text>
+<rect x="44" y="208" width="308" height="28" rx="4" fill="#F6F8FA" stroke="#D9E2EC" />
+<text x="54" y="227" font-family="Arial, Helvetica, sans-serif" font-size="12" font-weight="400" text-anchor="start" fill="#1F2933">Lifestyle and environmental exposur...</text>
+<text x="342" y="227" font-family="Arial, Helvetica, sans-serif" font-size="12" font-weight="400" text-anchor="end" fill="#637381">501,654</text>
+<rect x="44" y="242" width="308" height="28" rx="4" fill="#F6F8FA" stroke="#D9E2EC" />
+<text x="54" y="261" font-family="Arial, Helvetica, sans-serif" font-size="12" font-weight="400" text-anchor="start" fill="#1F2933">Clinical outcomes and disease histo...</text>
+<text x="342" y="261" font-family="Arial, Helvetica, sans-serif" font-size="12" font-weight="400" text-anchor="end" fill="#637381">501,654</text>
+<rect x="44" y="276" width="308" height="28" rx="4" fill="#F6F8FA" stroke="#D9E2EC" />
+<text x="54" y="295" font-family="Arial, Helvetica, sans-serif" font-size="12" font-weight="400" text-anchor="start" fill="#1F2933">Eye and vision / Assessment measure...</text>
+<text x="342" y="295" font-family="Arial, Helvetica, sans-serif" font-size="12" font-weight="400" text-anchor="end" fill="#637381">501,602</text>
+<rect x="44" y="310" width="308" height="28" rx="4" fill="#F6F8FA" stroke="#D9E2EC" />
+<text x="54" y="329" font-family="Arial, Helvetica, sans-serif" font-size="12" font-weight="400" text-anchor="start" fill="#1F2933">Clinical outcomes and disease histo...</text>
+<text x="342" y="329" font-family="Arial, Helvetica, sans-serif" font-size="12" font-weight="400" text-anchor="end" fill="#637381">501,654</text>
+<rect x="44" y="344" width="308" height="28" rx="4" fill="#F6F8FA" stroke="#D9E2EC" />
+<text x="54" y="363" font-family="Arial, Helvetica, sans-serif" font-size="12" font-weight="400" text-anchor="start" fill="#1F2933">Eye and vision / Device/QC metadata...</text>
+<text x="342" y="363" font-family="Arial, Helvetica, sans-serif" font-size="12" font-weight="400" text-anchor="end" fill="#637381">133,633</text>
+<rect x="44" y="378" width="308" height="28" rx="4" fill="#F6F8FA" stroke="#D9E2EC" />
+<text x="54" y="397" font-family="Arial, Helvetica, sans-serif" font-size="12" font-weight="400" text-anchor="start" fill="#1F2933">Clinical laboratory biomarkers / Cl...</text>
+<text x="342" y="397" font-family="Arial, Helvetica, sans-serif" font-size="12" font-weight="400" text-anchor="end" fill="#637381">484,960</text>
+<rect x="44" y="412" width="308" height="28" rx="4" fill="#F6F8FA" stroke="#D9E2EC" />
+<text x="54" y="431" font-family="Arial, Helvetica, sans-serif" font-size="12" font-weight="400" text-anchor="start" fill="#1F2933">Eye and vision / Questionnaire/self...</text>
+<text x="342" y="431" font-family="Arial, Helvetica, sans-serif" font-size="12" font-weight="400" text-anchor="end" fill="#637381">501,603</text>
+<rect x="44" y="446" width="308" height="28" rx="4" fill="#F6F8FA" stroke="#D9E2EC" />
+<text x="54" y="465" font-family="Arial, Helvetica, sans-serif" font-size="12" font-weight="400" text-anchor="start" fill="#1F2933">Body composition and bone / Assessm...</text>
+<text x="342" y="465" font-family="Arial, Helvetica, sans-serif" font-size="12" font-weight="400" text-anchor="end" fill="#637381">493,092</text>
+<rect x="44" y="480" width="308" height="28" rx="4" fill="#F6F8FA" stroke="#D9E2EC" />
+<text x="54" y="499" font-family="Arial, Helvetica, sans-serif" font-size="12" font-weight="400" text-anchor="start" fill="#1F2933">Demographics and assessment context...</text>
+<text x="342" y="499" font-family="Arial, Helvetica, sans-serif" font-size="12" font-weight="400" text-anchor="end" fill="#637381">502,504</text>
+<rect x="44" y="514" width="308" height="28" rx="4" fill="#F6F8FA" stroke="#D9E2EC" />
+<text x="54" y="533" font-family="Arial, Helvetica, sans-serif" font-size="12" font-weight="400" text-anchor="start" fill="#1F2933">Cardiometabolic physical measures /...</text>
+<text x="342" y="533" font-family="Arial, Helvetica, sans-serif" font-size="12" font-weight="400" text-anchor="end" fill="#637381">501,601</text>
+<rect x="412" y="112" width="308" height="46" rx="6" fill="#2F6F9F" stroke="none" />
+<text x="426" y="140" font-family="Arial, Helvetica, sans-serif" font-size="16" font-weight="700" text-anchor="start" fill="#FFFFFF">Eye-brain ukb42577</text>
+<text x="426" y="182" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="400" text-anchor="start" fill="#637381">Participant records: 502,505</text>
+<rect x="412" y="208" width="308" height="28" rx="4" fill="#F6F8FA" stroke="#D9E2EC" />
+<text x="422" y="227" font-family="Arial, Helvetica, sans-serif" font-size="12" font-weight="400" text-anchor="start" fill="#1F2933">Clinical outcomes and disease histo...</text>
+<text x="710" y="227" font-family="Arial, Helvetica, sans-serif" font-size="12" font-weight="400" text-anchor="end" fill="#637381">501,654</text>
+<rect x="412" y="242" width="308" height="28" rx="4" fill="#F6F8FA" stroke="#D9E2EC" />
+<text x="422" y="261" font-family="Arial, Helvetica, sans-serif" font-size="12" font-weight="400" text-anchor="start" fill="#1F2933">Brain and neuroimaging / Imaging-de...</text>
+<text x="710" y="261" font-family="Arial, Helvetica, sans-serif" font-size="12" font-weight="400" text-anchor="end" fill="#637381">40,773</text>
+<rect x="412" y="276" width="308" height="28" rx="4" fill="#F6F8FA" stroke="#D9E2EC" />
+<text x="422" y="295" font-family="Arial, Helvetica, sans-serif" font-size="12" font-weight="400" text-anchor="start" fill="#1F2933">Cognition and mental health / Quest...</text>
+<text x="710" y="295" font-family="Arial, Helvetica, sans-serif" font-size="12" font-weight="400" text-anchor="end" fill="#637381">501,617</text>
+<rect x="412" y="310" width="308" height="28" rx="4" fill="#F6F8FA" stroke="#D9E2EC" />
+<text x="422" y="329" font-family="Arial, Helvetica, sans-serif" font-size="12" font-weight="400" text-anchor="start" fill="#1F2933">Eye and vision / Assessment measure...</text>
+<text x="710" y="329" font-family="Arial, Helvetica, sans-serif" font-size="12" font-weight="400" text-anchor="end" fill="#637381">501,602</text>
+<rect x="412" y="344" width="308" height="28" rx="4" fill="#F6F8FA" stroke="#D9E2EC" />
+<text x="422" y="363" font-family="Arial, Helvetica, sans-serif" font-size="12" font-weight="400" text-anchor="start" fill="#1F2933">Lifestyle and environmental exposur...</text>
+<text x="710" y="363" font-family="Arial, Helvetica, sans-serif" font-size="12" font-weight="400" text-anchor="end" fill="#637381">501,654</text>
+<rect x="412" y="378" width="308" height="28" rx="4" fill="#F6F8FA" stroke="#D9E2EC" />
+<text x="422" y="397" font-family="Arial, Helvetica, sans-serif" font-size="12" font-weight="400" text-anchor="start" fill="#1F2933">Clinical outcomes and disease histo...</text>
+<text x="710" y="397" font-family="Arial, Helvetica, sans-serif" font-size="12" font-weight="400" text-anchor="end" fill="#637381">501,654</text>
+<rect x="412" y="412" width="308" height="28" rx="4" fill="#F6F8FA" stroke="#D9E2EC" />
+<text x="422" y="431" font-family="Arial, Helvetica, sans-serif" font-size="12" font-weight="400" text-anchor="start" fill="#1F2933">Eye and vision / Device/QC metadata...</text>
+<text x="710" y="431" font-family="Arial, Helvetica, sans-serif" font-size="12" font-weight="400" text-anchor="end" fill="#637381">133,633</text>
+<rect x="412" y="446" width="308" height="28" rx="4" fill="#F6F8FA" stroke="#D9E2EC" />
+<text x="422" y="465" font-family="Arial, Helvetica, sans-serif" font-size="12" font-weight="400" text-anchor="start" fill="#1F2933">Eye and vision / Questionnaire/self...</text>
+<text x="710" y="465" font-family="Arial, Helvetica, sans-serif" font-size="12" font-weight="400" text-anchor="end" fill="#637381">501,603</text>
+<rect x="412" y="480" width="308" height="28" rx="4" fill="#F6F8FA" stroke="#D9E2EC" />
+<text x="422" y="499" font-family="Arial, Helvetica, sans-serif" font-size="12" font-weight="400" text-anchor="start" fill="#1F2933">Body composition and bone / Assessm...</text>
+<text x="710" y="499" font-family="Arial, Helvetica, sans-serif" font-size="12" font-weight="400" text-anchor="end" fill="#637381">493,092</text>
+<rect x="412" y="514" width="308" height="28" rx="4" fill="#F6F8FA" stroke="#D9E2EC" />
+<text x="422" y="533" font-family="Arial, Helvetica, sans-serif" font-size="12" font-weight="400" text-anchor="start" fill="#1F2933">Demographics and assessment context...</text>
+<text x="710" y="533" font-family="Arial, Helvetica, sans-serif" font-size="12" font-weight="400" text-anchor="end" fill="#637381">502,504</text>
+<rect x="780" y="112" width="308" height="46" rx="6" fill="#2F6F9F" stroke="none" />
+<text x="794" y="140" font-family="Arial, Helvetica, sans-serif" font-size="16" font-weight="700" text-anchor="start" fill="#FFFFFF">Eye-brain ukb43216</text>
+<text x="794" y="182" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="400" text-anchor="start" fill="#637381">Participant records: 502,507</text>
+<rect x="780" y="208" width="308" height="28" rx="4" fill="#F6F8FA" stroke="#D9E2EC" />
+<text x="790" y="227" font-family="Arial, Helvetica, sans-serif" font-size="12" font-weight="400" text-anchor="start" fill="#1F2933">Cognition and mental health / Quest...</text>
+<text x="1078" y="227" font-family="Arial, Helvetica, sans-serif" font-size="12" font-weight="400" text-anchor="end" fill="#637381">498,755</text>
+<rect x="780" y="242" width="308" height="28" rx="4" fill="#F6F8FA" stroke="#D9E2EC" />
+<text x="790" y="261" font-family="Arial, Helvetica, sans-serif" font-size="12" font-weight="400" text-anchor="start" fill="#1F2933">Body composition and bone / Imaging...</text>
+<text x="1078" y="261" font-family="Arial, Helvetica, sans-serif" font-size="12" font-weight="400" text-anchor="end" fill="#637381">33,523</text>
+<rect x="780" y="276" width="308" height="28" rx="4" fill="#F6F8FA" stroke="#D9E2EC" />
+<text x="790" y="295" font-family="Arial, Helvetica, sans-serif" font-size="12" font-weight="400" text-anchor="start" fill="#1F2933">Genetics and genomics / Bulk image/...</text>
+<text x="1078" y="295" font-family="Arial, Helvetica, sans-serif" font-size="12" font-weight="400" text-anchor="end" fill="#637381">488,264</text>
+<rect x="780" y="310" width="308" height="28" rx="4" fill="#F6F8FA" stroke="#D9E2EC" />
+<text x="790" y="329" font-family="Arial, Helvetica, sans-serif" font-size="12" font-weight="400" text-anchor="start" fill="#1F2933">Clinical outcomes and disease histo...</text>
+<text x="1078" y="329" font-family="Arial, Helvetica, sans-serif" font-size="12" font-weight="400" text-anchor="end" fill="#637381">82,407</text>
+<rect x="780" y="344" width="308" height="28" rx="4" fill="#F6F8FA" stroke="#D9E2EC" />
+<text x="790" y="363" font-family="Arial, Helvetica, sans-serif" font-size="12" font-weight="400" text-anchor="start" fill="#1F2933">Genetics and genomics / Curated loc...</text>
+<text x="1078" y="363" font-family="Arial, Helvetica, sans-serif" font-size="12" font-weight="400" text-anchor="end" fill="#637381">488,264</text>
+<rect x="780" y="378" width="308" height="28" rx="4" fill="#F6F8FA" stroke="#D9E2EC" />
+<text x="790" y="397" font-family="Arial, Helvetica, sans-serif" font-size="12" font-weight="400" text-anchor="start" fill="#1F2933">Genetics and genomics / Device/QC m...</text>
+<text x="1078" y="397" font-family="Arial, Helvetica, sans-serif" font-size="12" font-weight="400" text-anchor="end" fill="#637381">488,264</text>
+<rect x="780" y="412" width="308" height="28" rx="4" fill="#F6F8FA" stroke="#D9E2EC" />
+<text x="790" y="431" font-family="Arial, Helvetica, sans-serif" font-size="12" font-weight="400" text-anchor="start" fill="#1F2933">Body composition and bone / Device/...</text>
+<text x="1078" y="431" font-family="Arial, Helvetica, sans-serif" font-size="12" font-weight="400" text-anchor="end" fill="#637381">48,990</text>
+<rect x="780" y="446" width="308" height="28" rx="4" fill="#F6F8FA" stroke="#D9E2EC" />
+<text x="790" y="465" font-family="Arial, Helvetica, sans-serif" font-size="12" font-weight="400" text-anchor="start" fill="#1F2933">Data linkage and source administrat...</text>
+<text x="1078" y="465" font-family="Arial, Helvetica, sans-serif" font-size="12" font-weight="400" text-anchor="end" fill="#637381">125,498</text>
+<rect x="780" y="480" width="308" height="28" rx="4" fill="#F6F8FA" stroke="#D9E2EC" />
+<text x="790" y="499" font-family="Arial, Helvetica, sans-serif" font-size="12" font-weight="400" text-anchor="start" fill="#1F2933">Cognition and mental health / Devic...</text>
+<text x="1078" y="499" font-family="Arial, Helvetica, sans-serif" font-size="12" font-weight="400" text-anchor="end" fill="#637381">211,956</text>
+<rect x="780" y="514" width="308" height="28" rx="4" fill="#F6F8FA" stroke="#D9E2EC" />
+<text x="790" y="533" font-family="Arial, Helvetica, sans-serif" font-size="12" font-weight="400" text-anchor="start" fill="#1F2933">Cognition and mental health / Imagi...</text>
+<text x="1078" y="533" font-family="Arial, Helvetica, sans-serif" font-size="12" font-weight="400" text-anchor="end" fill="#637381">33,523</text>
+<rect x="1148" y="112" width="308" height="46" rx="6" fill="#2F6F9F" stroke="none" />
+<text x="1162" y="140" font-family="Arial, Helvetica, sans-serif" font-size="16" font-weight="700" text-anchor="start" fill="#FFFFFF">METABOLITE.csv</text>
+<text x="1162" y="182" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="400" text-anchor="start" fill="#637381">Participant records: 502,476</text>
+<rect x="1148" y="208" width="308" height="28" rx="4" fill="#F6F8FA" stroke="#D9E2EC" />
+<text x="1158" y="227" font-family="Arial, Helvetica, sans-serif" font-size="12" font-weight="400" text-anchor="start" fill="#1F2933">Clinical outcomes and disease histo...</text>
+<text x="1446" y="227" font-family="Arial, Helvetica, sans-serif" font-size="12" font-weight="400" text-anchor="end" fill="#637381">502,476</text>
+<rect x="1148" y="242" width="308" height="28" rx="4" fill="#F6F8FA" stroke="#D9E2EC" />
+<text x="1158" y="261" font-family="Arial, Helvetica, sans-serif" font-size="12" font-weight="400" text-anchor="start" fill="#1F2933">Lifestyle and environmental exposur...</text>
+<text x="1446" y="261" font-family="Arial, Helvetica, sans-serif" font-size="12" font-weight="400" text-anchor="end" fill="#637381">501,625</text>
+<rect x="1148" y="276" width="308" height="28" rx="4" fill="#F6F8FA" stroke="#D9E2EC" />
+<text x="1158" y="295" font-family="Arial, Helvetica, sans-serif" font-size="12" font-weight="400" text-anchor="start" fill="#1F2933">Clinical outcomes and disease histo...</text>
+<text x="1446" y="295" font-family="Arial, Helvetica, sans-serif" font-size="12" font-weight="400" text-anchor="end" fill="#637381">501,625</text>
+<rect x="1148" y="310" width="308" height="28" rx="4" fill="#F6F8FA" stroke="#D9E2EC" />
+<text x="1158" y="329" font-family="Arial, Helvetica, sans-serif" font-size="12" font-weight="400" text-anchor="start" fill="#1F2933">Metabolomics and molecular biomarke...</text>
+<text x="1446" y="329" font-family="Arial, Helvetica, sans-serif" font-size="12" font-weight="400" text-anchor="end" fill="#637381">110,730</text>
+<rect x="1148" y="344" width="308" height="28" rx="4" fill="#F6F8FA" stroke="#D9E2EC" />
+<text x="1158" y="363" font-family="Arial, Helvetica, sans-serif" font-size="12" font-weight="400" text-anchor="start" fill="#1F2933">Clinical outcomes and disease histo...</text>
+<text x="1446" y="363" font-family="Arial, Helvetica, sans-serif" font-size="12" font-weight="400" text-anchor="end" fill="#637381">502,476</text>
+<rect x="1148" y="378" width="308" height="28" rx="4" fill="#F6F8FA" stroke="#D9E2EC" />
+<text x="1158" y="397" font-family="Arial, Helvetica, sans-serif" font-size="12" font-weight="400" text-anchor="start" fill="#1F2933">Eye and vision / Questionnaire/self...</text>
+<text x="1446" y="397" font-family="Arial, Helvetica, sans-serif" font-size="12" font-weight="400" text-anchor="end" fill="#637381">501,574</text>
+<rect x="1148" y="412" width="308" height="28" rx="4" fill="#F6F8FA" stroke="#D9E2EC" />
+<text x="1158" y="431" font-family="Arial, Helvetica, sans-serif" font-size="12" font-weight="400" text-anchor="start" fill="#1F2933">Eye and vision / Assessment measure...</text>
+<text x="1446" y="431" font-family="Arial, Helvetica, sans-serif" font-size="12" font-weight="400" text-anchor="end" fill="#637381">501,573</text>
+<rect x="1148" y="446" width="308" height="28" rx="4" fill="#F6F8FA" stroke="#D9E2EC" />
+<text x="1158" y="465" font-family="Arial, Helvetica, sans-serif" font-size="12" font-weight="400" text-anchor="start" fill="#1F2933">Metabolomics and molecular biomarke...</text>
+<text x="1446" y="465" font-family="Arial, Helvetica, sans-serif" font-size="12" font-weight="400" text-anchor="end" fill="#637381">110,730</text>
+<rect x="1148" y="480" width="308" height="28" rx="4" fill="#F6F8FA" stroke="#D9E2EC" />
+<text x="1158" y="499" font-family="Arial, Helvetica, sans-serif" font-size="12" font-weight="400" text-anchor="start" fill="#1F2933">Clinical laboratory biomarkers / Cl...</text>
+<text x="1446" y="499" font-family="Arial, Helvetica, sans-serif" font-size="12" font-weight="400" text-anchor="end" fill="#637381">484,931</text>
+<rect x="1148" y="514" width="308" height="28" rx="4" fill="#F6F8FA" stroke="#D9E2EC" />
+<text x="1158" y="533" font-family="Arial, Helvetica, sans-serif" font-size="12" font-weight="400" text-anchor="start" fill="#1F2933">Cardiometabolic physical measures /...</text>
+<text x="1446" y="533" font-family="Arial, Helvetica, sans-serif" font-size="12" font-weight="400" text-anchor="end" fill="#637381">500,377</text>
+</svg>

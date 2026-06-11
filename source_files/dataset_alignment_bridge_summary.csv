@@ -1,0 +1,4 @@
+bridge_file,left_namespace,right_namespace,row_count,left_unique,right_unique,duplicate_rows,left_duplicates,right_duplicates,status,notes,left_overlap_with_local_source,right_overlap_with_local_source
+bridge_brain.dta,eid_brain,eid_ckd,502493,502493,502493,0,0,0,usable,Maps eye-brain eid values to the CKD/eye-kidney namespace; used for the dataset-alignment UpSet.,502493,502493
+bridge_ageing.dta,eid_ageing,eid_ckd,502493,502493,502493,0,0,0,usable,Maps the METABOLITE eid_ageing namespace to CKD/eye-kidney IDs.,502476,502476
+bridge_heart.dta,eid_heart,eid_ckd,502493,502493,502493,0,0,0,usable,Useful for future heart-application data; no local heart feature table is currently profiled.,0,502493

@@ -1,0 +1,94 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1500" height="740" viewBox="0 0 1500 740">
+<rect x="0" y="0" width="1500" height="740" rx="0" fill="#FFFFFF" stroke="none" />
+<text x="36" y="42" font-family="Arial, Helvetica, sans-serif" font-size="26" font-weight="700" text-anchor="start" fill="#1F2933">Prediction Target Catalog</text>
+<text x="36" y="70" font-family="Arial, Helvetica, sans-serif" font-size="14" font-weight="400" text-anchor="start" fill="#637381">Exact target bubbles are interactive in the HTML; this static overview shows target families and phenotype types.</text>
+<rect x="48" y="126" width="430" height="44" rx="6" fill="#F6F8FA" stroke="#D9E2EC" />
+<rect x="48" y="126" width="250" height="44" rx="6" fill="#C7DCEB" stroke="none" />
+<text x="62" y="153" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="700" text-anchor="start" fill="#1F2933">Cancer</text>
+<text x="458" y="153" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="700" text-anchor="end" fill="#637381">40</text>
+<rect x="518" y="126" width="430" height="44" rx="6" fill="#F6F8FA" stroke="#D9E2EC" />
+<rect x="518" y="126" width="75" height="44" rx="6" fill="#C7DCEB" stroke="none" />
+<text x="532" y="153" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="700" text-anchor="start" fill="#1F2933">Stroke</text>
+<text x="928" y="153" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="700" text-anchor="end" fill="#637381">12</text>
+<rect x="988" y="126" width="430" height="44" rx="6" fill="#F6F8FA" stroke="#D9E2EC" />
+<rect x="988" y="126" width="56" height="44" rx="6" fill="#C7DCEB" stroke="none" />
+<text x="1002" y="153" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="700" text-anchor="start" fill="#1F2933">Parkinsonism / neurodegeneration</text>
+<text x="1398" y="153" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="700" text-anchor="end" fill="#637381">9</text>
+<rect x="48" y="198" width="430" height="44" rx="6" fill="#F6F8FA" stroke="#D9E2EC" />
+<rect x="48" y="198" width="50" height="44" rx="6" fill="#C7DCEB" stroke="none" />
+<text x="62" y="225" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="700" text-anchor="start" fill="#1F2933">Dementia</text>
+<text x="458" y="225" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="700" text-anchor="end" fill="#637381">8</text>
+<rect x="518" y="198" width="430" height="44" rx="6" fill="#F6F8FA" stroke="#D9E2EC" />
+<rect x="518" y="198" width="50" height="44" rx="6" fill="#C7DCEB" stroke="none" />
+<text x="532" y="225" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="700" text-anchor="start" fill="#1F2933">Eye disease</text>
+<text x="928" y="225" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="700" text-anchor="end" fill="#637381">8</text>
+<rect x="988" y="198" width="430" height="44" rx="6" fill="#F6F8FA" stroke="#D9E2EC" />
+<rect x="988" y="198" width="50" height="44" rx="6" fill="#C7DCEB" stroke="none" />
+<text x="1002" y="225" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="700" text-anchor="start" fill="#1F2933">Respiratory disease</text>
+<text x="1398" y="225" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="700" text-anchor="end" fill="#637381">8</text>
+<rect x="48" y="270" width="430" height="44" rx="6" fill="#F6F8FA" stroke="#D9E2EC" />
+<rect x="48" y="270" width="37" height="44" rx="6" fill="#C7DCEB" stroke="none" />
+<text x="62" y="297" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="700" text-anchor="start" fill="#1F2933">CKD / kidney function</text>
+<text x="458" y="297" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="700" text-anchor="end" fill="#637381">6</text>
+<rect x="518" y="270" width="430" height="44" rx="6" fill="#F6F8FA" stroke="#D9E2EC" />
+<rect x="518" y="270" width="25" height="44" rx="6" fill="#C7DCEB" stroke="none" />
+<text x="532" y="297" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="700" text-anchor="start" fill="#1F2933">Aortic aneurysm</text>
+<text x="928" y="297" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="700" text-anchor="end" fill="#637381">4</text>
+<rect x="988" y="270" width="430" height="44" rx="6" fill="#F6F8FA" stroke="#D9E2EC" />
+<rect x="988" y="270" width="25" height="44" rx="6" fill="#C7DCEB" stroke="none" />
+<text x="1002" y="297" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="700" text-anchor="start" fill="#1F2933">Atrial fibrillation</text>
+<text x="1398" y="297" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="700" text-anchor="end" fill="#637381">4</text>
+<rect x="48" y="342" width="430" height="44" rx="6" fill="#F6F8FA" stroke="#D9E2EC" />
+<rect x="48" y="342" width="25" height="44" rx="6" fill="#C7DCEB" stroke="none" />
+<text x="62" y="369" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="700" text-anchor="start" fill="#1F2933">Bone / fracture</text>
+<text x="458" y="369" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="700" text-anchor="end" fill="#637381">4</text>
+<rect x="518" y="342" width="430" height="44" rx="6" fill="#F6F8FA" stroke="#D9E2EC" />
+<rect x="518" y="342" width="25" height="44" rx="6" fill="#C7DCEB" stroke="none" />
+<text x="532" y="369" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="700" text-anchor="start" fill="#1F2933">Coronary artery disease / CHD</text>
+<text x="928" y="369" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="700" text-anchor="end" fill="#637381">4</text>
+<rect x="988" y="342" width="430" height="44" rx="6" fill="#F6F8FA" stroke="#D9E2EC" />
+<rect x="988" y="342" width="25" height="44" rx="6" fill="#C7DCEB" stroke="none" />
+<text x="1002" y="369" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="700" text-anchor="start" fill="#1F2933">Heart failure</text>
+<text x="1398" y="369" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="700" text-anchor="end" fill="#637381">4</text>
+<rect x="48" y="414" width="430" height="44" rx="6" fill="#F6F8FA" stroke="#D9E2EC" />
+<rect x="48" y="414" width="25" height="44" rx="6" fill="#C7DCEB" stroke="none" />
+<text x="62" y="441" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="700" text-anchor="start" fill="#1F2933">Liver disease</text>
+<text x="458" y="441" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="700" text-anchor="end" fill="#637381">4</text>
+<rect x="518" y="414" width="430" height="44" rx="6" fill="#F6F8FA" stroke="#D9E2EC" />
+<rect x="518" y="414" width="25" height="44" rx="6" fill="#C7DCEB" stroke="none" />
+<text x="532" y="441" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="700" text-anchor="start" fill="#1F2933">Peripheral arterial disease</text>
+<text x="928" y="441" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="700" text-anchor="end" fill="#637381">4</text>
+<rect x="988" y="414" width="430" height="44" rx="6" fill="#F6F8FA" stroke="#D9E2EC" />
+<rect x="988" y="414" width="25" height="44" rx="6" fill="#C7DCEB" stroke="none" />
+<text x="1002" y="441" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="700" text-anchor="start" fill="#1F2933">Type 2 diabetes</text>
+<text x="1398" y="441" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="700" text-anchor="end" fill="#637381">4</text>
+<rect x="48" y="486" width="430" height="44" rx="6" fill="#F6F8FA" stroke="#D9E2EC" />
+<rect x="48" y="486" width="25" height="44" rx="6" fill="#C7DCEB" stroke="none" />
+<text x="62" y="513" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="700" text-anchor="start" fill="#1F2933">Venous thromboembolism</text>
+<text x="458" y="513" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="700" text-anchor="end" fill="#637381">4</text>
+<rect x="518" y="486" width="430" height="44" rx="6" fill="#F6F8FA" stroke="#D9E2EC" />
+<rect x="518" y="486" width="12" height="44" rx="6" fill="#C7DCEB" stroke="none" />
+<text x="532" y="513" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="700" text-anchor="start" fill="#1F2933">Mortality</text>
+<text x="928" y="513" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="700" text-anchor="end" fill="#637381">2</text>
+<rect x="988" y="486" width="430" height="44" rx="6" fill="#F6F8FA" stroke="#D9E2EC" />
+<rect x="988" y="486" width="6" height="44" rx="6" fill="#C7DCEB" stroke="none" />
+<text x="1002" y="513" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="700" text-anchor="start" fill="#1F2933">Brain MRI phenotypes</text>
+<text x="1398" y="513" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="700" text-anchor="end" fill="#637381">1</text>
+<rect x="48" y="558" width="430" height="44" rx="6" fill="#F6F8FA" stroke="#D9E2EC" />
+<rect x="48" y="558" width="6" height="44" rx="6" fill="#C7DCEB" stroke="none" />
+<text x="62" y="585" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="700" text-anchor="start" fill="#1F2933">Cognitive phenotypes</text>
+<text x="458" y="585" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="700" text-anchor="end" fill="#637381">1</text>
+<rect x="518" y="558" width="430" height="44" rx="6" fill="#F6F8FA" stroke="#D9E2EC" />
+<rect x="518" y="558" width="6" height="44" rx="6" fill="#C7DCEB" stroke="none" />
+<text x="532" y="585" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="700" text-anchor="start" fill="#1F2933">DXA/body-composition phenotypes</text>
+<text x="928" y="585" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="700" text-anchor="end" fill="#637381">1</text>
+<text x="48" y="520" font-family="Arial, Helvetica, sans-serif" font-size="18" font-weight="700" text-anchor="start" fill="#1F2933">Target phenotype types</text>
+<text x="70" y="554" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="400" text-anchor="start" fill="#1F2933">event/date outcome: 29</text>
+<text x="70" y="578" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="400" text-anchor="start" fill="#1F2933">incident binary outcome: 29</text>
+<text x="70" y="602" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="400" text-anchor="start" fill="#1F2933">prevalent/prior binary outcome: 28</text>
+<text x="70" y="626" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="400" text-anchor="start" fill="#1F2933">status/binary outcome: 28</text>
+<text x="70" y="650" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="400" text-anchor="start" fill="#1F2933">linked endpoint date/source: 14</text>
+<text x="70" y="674" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="400" text-anchor="start" fill="#1F2933">continuous imaging phenotype group: 2</text>
+<text x="70" y="698" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="400" text-anchor="start" fill="#1F2933">continuous clinical biomarker phenotype group: 1</text>
+<text x="70" y="722" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="400" text-anchor="start" fill="#1F2933">continuous/categorical assessment phenotype group: 1</text>
+</svg>
